@@ -1,0 +1,75 @@
+{
+  "ID": "BN003",
+  "ten": "Le Van Nhat",
+  "ngay_sinh": "01/01/1975",
+  "gioi_tinh": "Nam",
+  "nhom_mau": "B",
+  "chieu_cao": 170,
+  "can_nang": 80,
+  "NGUOIPHUTRACH": [
+    {
+      "ID": "BS001",
+      "khoa": "Pharmacy"
+    },
+    {
+      "ID": "BS005",
+      "khoa": "Respiratory"
+    }
+  ],
+  "lich_su_benh_an": [
+    {
+      "thoi_gian": "2005",
+      "mo_ta": "Dieu tri benh tim"
+    },
+    {
+      "thoi_gian": "2010",
+      "mo_ta": "Phau thuat thay van tim"
+    },
+    {
+      "thoi_gian": "2018",
+      "mo_ta": "Dieu tri ung thu phoi"
+    }
+  ],
+  "thuoc_dang_dung": [
+    {
+      "ten_thuoc": "Atorvastatin",
+      "lieu_luong": "20mg",
+      "lieu_lan": "1 lan/ngay",
+      "ngay_bat_dau": "01/01/2021",
+      "ngay_ket_thuc": ""
+    },
+    {
+      "ten_thuoc": "Clopidogrel",
+      "lieu_luong": "75mg",
+      "lieu_lan": "1 lan/ngay",
+      "ngay_bat_dau": "01/01/2021",
+      "ngay_ket_thuc": ""
+    },
+    {
+      "ten_thuoc": "Ranitidine",
+      "lieu_luong": "150mg",
+      "lieu_lan": "2 lan/ngay",
+      "ngay_bat_dau": "01/01/2021",
+      "ngay_ket_thuc": "01/01/2022"
+    }
+  ],
+  "tiem_phong": [
+    {
+      "ten_tiem_phong": "Phong benh cum",
+      "ngay_tiem": "01/01/2022",
+      "lieu_luong": "1 lieu",
+      "noi_tiem": "Benh vien ABC"
+    },
+    {
+      "ten_tiem_phong": "Phong benh COVID-19",
+      "ngay_tiem": "01/01/2022",
+      "lieu_luong": "1 lieu",
+      "noi_tiem": "Benh vien ABC"
+    }
+  ],
+  "thong_tin_lien_he": {
+    "dia_chi": "So 789, duong LMN, phuong OPQ, quan RST, TP. HCM",
+    "so_dien_thoai": "09xxxxxxxxxx",
+    "email": "levannhat@gmail.com"
+  }
+}

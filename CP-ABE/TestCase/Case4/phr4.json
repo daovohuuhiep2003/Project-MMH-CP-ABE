@@ -1,0 +1,65 @@
+{
+  "ID": "BN004",
+  "ten": "Tran Thi An",
+  "ngay_sinh": "15/03/1995",
+  "gioi_tinh": "Nu",
+  "nhom_mau": "O",
+  "chieu_cao": 160,
+  "can_nang": 50,
+  "NGUOIPHUTRACH": [
+    {
+      "ID": "BS002",
+      "khoa": "Emergency"
+    },
+    {
+      "ID": "BS007",
+      "khoa": "Biochemistry"
+    }
+  ],
+  "lich_su_benh_an": [
+    {
+      "thoi_gian": "2005",
+      "mo_ta": "Dieu tri sot xuat huyet"
+    },
+    {
+      "thoi_gian": "2015",
+      "mo_ta": "Phau thuat thay van tim"
+    }
+  ],
+  "thuoc_dang_dung": [
+    {
+      "ten_thuoc": "Albuterol",
+      "lieu_luong": "2mg",
+      "lieu_lan": "2 lan/ngay",
+      "ngay_bat_dau": "01/01/2022",
+      "ngay_ket_thuc": ""
+    },
+    {
+      "ten_thuoc": "Advair",
+      "lieu_luong": "250/50",
+      "lieu_lan": "2 lan/ngay",
+      "ngay_bat_dau": "01/01/2022",
+      "ngay_ket_thuc": ""
+    },
+    {
+      "ten_thuoc": "Ibuprofen",
+      "lieu_luong": "400mg",
+      "lieu_lan": "3 lan/ngay",
+      "ngay_bat_dau": "01/01/2022",
+      "ngay_ket_thuc": ""
+    }
+  ],
+  "tiem_phong": [
+    {
+      "ten_tiem_phong": "Phong benh cum",
+      "ngay_tiem": "01/01/2022",
+      "lieu_luong": "1 lieu",
+      "noi_tiem": "Benh vien XYZ"
+    }
+  ],
+  "thong_tin_lien_he": {
+    "dia_chi": "So 456, duong XYZ, phuong UVW, quan XYZ, TP. HCM",
+    "so_dien_thoai": "09yyyyyyyy",
+    "email": "tranthian@gmail.com"
+  }
+  }

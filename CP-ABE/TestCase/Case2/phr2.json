@@ -1,0 +1,58 @@
+{
+  "ID": "BN002",
+  "ten": "Tran Thi An",
+  "ngay_sinh": "01/01/1990",
+  "gioi_tinh": "Nu",
+  "nhom_mau": "O",
+  "chieu_cao": 160,
+  "can_nang": 55,
+  "NGUOIPHUTRACH": [
+    {
+      "ID": "BS003",
+      "khoa": "Cardiology"
+    },
+    {
+      "ID": "BS006",
+      "khoa": "Pediatric"
+    }
+  ],
+  "lich_su_benh_an": [
+    {
+      "thoi_gian": "2015",
+      "mo_ta": "Phau thuat noi soi viem tuy"
+    },
+    {
+      "thoi_gian": "2020",
+      "mo_ta": "Dieu tri ung thu vu"
+    }
+  ],
+  "thuoc_dang_dung": [
+    {
+      "ten_thuoc": "Tamoxifen",
+      "lieu_luong": "20mg",
+      "lieu_lan": "1 lan/ngay",
+      "ngay_bat_dau": "01/01/2021",
+      "ngay_ket_thuc": "01/01/2022"
+    },
+    {
+      "ten_thuoc": "Letrozole",
+      "lieu_luong": "2.5mg",
+      "lieu_lan": "1 lan/ngay",
+      "ngay_bat_dau": "01/01/2022",
+      "ngay_ket_thuc": ""
+    }
+  ],
+  "tiem_phong": [
+    {
+      "ten_tiem_phong": "Phong benh COVID-19",
+      "ngay_tiem": "01/01/2022",
+      "lieu_luong": "1 lieu",
+      "noi_tiem": "Benh vien XYZ"
+    }
+  ],
+  "thong_tin_lien_he": {
+    "dia_chi": "So 456, duong XYZ, phuong UVW, quan XYZ, TP. HCM",
+    "so_dien_thoai": "09xxxxxxxxxx",
+    "email": "tranthian@gmail.com"
+  }
+}

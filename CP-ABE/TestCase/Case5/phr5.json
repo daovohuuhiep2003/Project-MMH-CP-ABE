@@ -1,0 +1,65 @@
+{
+  "ID": "BN005",
+  "ten": "Pham Van Binh",
+  "ngay_sinh": "12/11/1999",
+  "gioi_tinh": "Nam",
+  "nhom_mau": "B",
+  "chieu_cao": 162,
+  "can_nang": 60,
+  "NGUOIPHUTRACH": [
+    {
+      "ID": "BS004",
+      "khoa": "Psychology"
+    },
+    {
+      "ID": "BS005",
+      "khoa": "Respiratory"
+    }
+  ],
+  "lich_su_benh_an": [
+    {
+      "thoi_gian": "2010",
+      "mo_ta": "Dieu tri tram cam, chung lo au"
+    },
+    {
+      "thoi_gian": "2015",
+      "mo_ta": "Dieu tri viem mui di ung"
+    }
+  ],
+  "thuoc_dang_dung": [
+    {
+      "ten_thuoc": "Escitalopram",
+      "lieu_luong": "10mg",
+      "lieu_lan": "1 lan/ngay",
+      "ngay_bat_dau": "01/01/2022",
+      "ngay_ket_thuc": ""
+    },
+    {
+      "ten_thuoc": "Alprazolam",
+      "lieu_luong": "0.25mg",
+      "lieu_lan": "2 lan/ngay",
+      "ngay_bat_dau": "01/01/2022",
+      "ngay_ket_thuc": ""
+    },
+    {
+      "ten_thuoc": "Fluticasone",
+      "lieu_luong": "50mcg",
+      "lieu_lan": "2 lan/ngay",
+      "ngay_bat_dau": "01/01/2022",
+      "ngay_ket_thuc": ""
+    }
+  ],
+  "tiem_phong": [
+    {
+      "ten_tiem_phong": "Tiem vaccine COVID-19",
+      "ngay_tiem": "01/01/2022",
+      "lieu_luong": "1 lieu",
+      "noi_tiem": "Benh vien KLM"
+    }
+  ],
+  "thong_tin_lien_he": {
+    "dia_chi": "So 789, duong HIJ, phuong KLM, quan NOP, TP. HCM",
+    "so_dien_thoai": "09zzzzzzzzz",
+    "email": "phamthibinh@gmail.com"
+  }
+}

@@ -1,0 +1,72 @@
+{
+    "ID": "BN008",
+    "ten": "Tran Hoang Phuc",
+    "ngay_sinh": "01/01/2003",
+    "gioi_tinh": "Nam",
+    "nhom_mau": "AB",
+    "chieu_cao": 175,
+    "can_nang": 70,
+    "NGUOIPHUTRACH": [
+        {
+            "ID": "BS001",
+            "khoa": "Pharmacy"
+        },
+        {
+            "ID": "BS005",
+            "khoa": "Respiratory"
+        }
+    ],
+    "lich_su_benh_an": [
+        {
+            "thoi_gian": "2021",
+            "mo_ta": "Cao huyet ap"
+        },
+        {
+            "thoi_gian": "2022",
+            "mo_ta": "Viem phe quan"
+        }
+    ],
+    "thuoc_dang_dung": [
+        {
+            "ten_thuoc": "Candesartan",
+            "lieu_luong": "5mg",
+            "lieu_lan": "1 lan/ngay",
+            "ngay_bat_dau": "01/01/2022",
+            "ngay_ket_thuc": ""
+        },
+        {
+            "ten_thuoc": "Amlodipine",
+            "lieu_luong": "5mg",
+            "lieu_lan": "1 lan/ngay",
+            "ngay_bat_dau": "01/01/2022",
+            "ngay_ket_thuc": ""
+        },
+        {
+            "ten_thuoc": "Doxycycline",
+            "lieu_luong": "5mg",
+            "lieu_lan": "2 lan/ngay",
+            "ngay_bat_dau": "01/01/2022",
+            "ngay_ket_thuc": ""
+        },
+        {
+            "ten_thuoc": "Amoxicillin",
+            "lieu_luong": "5mg",
+            "lieu_lan": "2 lan/ngay",
+            "ngay_bat_dau": "01/01/2022",
+            "ngay_ket_thuc": ""
+        }
+    ],
+    "tiem_phong": [
+        {
+            "ten_tiem_phong": "Phong benh cum",
+            "ngay_tiem": "01/01/2022",
+            "lieu_luong": "1 lieu",
+            "noi_tiem": "Benh vien ABC"
+        }
+    ],
+    "thong_tin_lien_he": {
+        "dia_chi": "So 854, duong AEC, phuong POF, quan GAS, TP. HCM",
+        "so_dien_thoai": "09xxxxxxxxxx",
+        "email": "HoangPhuc@gmail.com"
+    }
+}
